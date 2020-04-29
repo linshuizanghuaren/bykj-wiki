@@ -1,10 +1,10 @@
 const path = require('path')
 module.exports = {
-    base: '/wiki/',
+    base: '/bykj/',
     title: '彪阳科技任职历程',
     description: '随便写写',
     head: [
-        ['link', { rel: 'icon', href: '/imgs/logo.png', type: 'image/png' }] //不生效呀
+        ['link', { rel: 'icon', href: '/imgs/logo.png', type: 'image/png' }]
     ],
     themeConfig: {
         lastUpdated: 'Last Updated',

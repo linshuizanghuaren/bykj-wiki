@@ -1,6 +1,7 @@
 # wiki搭建
 
 ### 快速上手
+
 - 新建文件夹
 - 进入文件夹，npm init -y
 - 修改package.json的script
@@ -11,6 +12,7 @@
     "build": "vuepress build docs"
 }
 ```
+
 - 按照下面的样式新建基础目录
 
 ```js
@@ -22,6 +24,7 @@ wiki-cli
 |               |---config.js
 |------package.json
 ```
+
 - 修改config.js文件，配置网站标题、描述、主题等信息
 
 ```js
@@ -39,13 +42,14 @@ module.exports = {
     nav:[ // 导航栏配置
       {text: '', link: '/xxx1/' },
       {text: '', link: '/xxx2/'},
-      {text: '', link: 'https://baidu.com'}      
+      {text: '', link: 'https://baidu.com'}
     ],
     sidebar: 'auto', // 侧边栏配置
     sidebarDepth: 2, // 侧边栏显示2级
   }
 };
 ```
+
 - 一切准备就绪，就可以跑起来了
 
 ```js

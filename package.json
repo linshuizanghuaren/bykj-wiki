@@ -1,11 +1,11 @@
 {
-    "name": "bjs-wiki",
+    "name": "bykj-wiki",
     "version": "1.0.0",
     "description": "wiki",
     "private": false,
     "keywords": [
         "Vue",
-        "UI"
+        "bykj"
     ],
     "scripts": {
         "dev": "vuepress dev docs",
