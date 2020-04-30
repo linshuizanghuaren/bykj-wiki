@@ -27,6 +27,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/baoshijie/directory',
+                    '/baoshijie/alert'
                 ]
             },
             {
