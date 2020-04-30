@@ -34,7 +34,9 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/binli/directory',
-                    '/binli/plop'
+                    '/binli/plop',
+                    '/binli/api',
+                    '/binli/call'
                 ]
             },
             {
