@@ -10,7 +10,7 @@ module.exports = {
         lastUpdated: 'Last Updated',
         nav: [
             { text: '主页', link: '/' },
-            { text: '时间节点', link: '/time/' }
+            { text: '信息', link: '/info/' }
         ],
         sidebarDepth: 2,
         sidebar: [
@@ -37,7 +37,9 @@ module.exports = {
                     '/binli/directory',
                     '/binli/plop',
                     '/binli/api',
-                    '/binli/call'
+                    '/binli/call',
+                    '/binli/error',
+                    '/binli/npm'
                 ]
             },
             {
