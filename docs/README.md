@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: let`s go →
-actionLink: /time/
+actionLink: /info/
 features:
 - title: react
   details: 贼刺激

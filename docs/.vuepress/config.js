@@ -18,8 +18,15 @@ module.exports = {
                 title: '组件库',
                 collapsable: false,
                 children: [
-                    '/components/cButton',
-                    '/components/cInput',
+                    '/components/mini',
+                    '/components/file',
+                    '/components/color',
+                    '/components/icon',
+                    '/components/input',
+                    '/components/button',
+                    '/components/loading',
+                    '/components/alert',
+                    '/components/tab',
                 ]
             },
             {
