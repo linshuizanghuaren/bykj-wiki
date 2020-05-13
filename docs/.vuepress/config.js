@@ -56,6 +56,14 @@ module.exports = {
                     '/other/cordova',
                     '/other/qywx'
                 ]
+            },
+            {
+                title: 'l2l',
+                collapsable: false,
+                children: [
+                    '/l2l/umi',
+                    '/l2l/dva'
+                ]
             }
         ]
     },
